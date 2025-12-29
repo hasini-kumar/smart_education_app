@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './Login.css';
 
 const VALID_CREDENTIALS = {
-  email: 'hasinih051@gmail.com',
+  email: 'test@gmail.com',
   password: '12345'
 };
 
