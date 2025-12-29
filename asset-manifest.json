@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.06b22466.css",
-    "main.js": "/static/js/main.ddf122c5.js",
-    "static/js/453.a41c7c8e.chunk.js": "/static/js/453.a41c7c8e.chunk.js",
-    "index.html": "/index.html",
-    "main.06b22466.css.map": "/static/css/main.06b22466.css.map",
-    "main.ddf122c5.js.map": "/static/js/main.ddf122c5.js.map",
-    "453.a41c7c8e.chunk.js.map": "/static/js/453.a41c7c8e.chunk.js.map"
+    "main.css": "/smart_education_app/static/css/main.06b22466.css",
+    "main.js": "/smart_education_app/static/js/main.1164e130.js",
+    "static/js/453.a41c7c8e.chunk.js": "/smart_education_app/static/js/453.a41c7c8e.chunk.js",
+    "index.html": "/smart_education_app/index.html",
+    "main.06b22466.css.map": "/smart_education_app/static/css/main.06b22466.css.map",
+    "main.1164e130.js.map": "/smart_education_app/static/js/main.1164e130.js.map",
+    "453.a41c7c8e.chunk.js.map": "/smart_education_app/static/js/453.a41c7c8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06b22466.css",
-    "static/js/main.ddf122c5.js"
+    "static/js/main.1164e130.js"
   ]
 }
